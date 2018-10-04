@@ -45,4 +45,4 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 
 
 ## Screenshots:
-![placeHolderImage](https://www.petmd.com/dog/general-health/what-shaking-puppy-syndrome)
+![placeHolderImage]()
