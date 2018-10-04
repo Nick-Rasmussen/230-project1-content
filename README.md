@@ -10,18 +10,15 @@
 
 
 ## Game Concept:
-Take control of a rocketship and get it to orbit. <br />
-On the way, you'll encounter a number of obstacles <br />
-ranging from birds to space debris. <br />
-The higher you get, the more they grow in size and numbers. <br />
+Take control of a rocketship and get it to orbit. On the way, you'll encounter a number of obstacles <br />
+ranging from birds to space debris. The higher you get, the more they grow in size and numbers. <br />
 ![placeHolderImage]()
 
 
 ## Story:
-Look alive, pilot, launch was T-10 seconds ago and there's no turning back. 
-But wait a minute, who put all those birds and planes in the way?!? 
-Better buckle up and put on your helmet. Your crew is depending on you 
-for a smooth ride into space, and that doesn't include blowing up the ship.
+Look alive, pilot, launch was T-10 seconds ago and there's no turning back. But wait a minute, <br />
+who put all those birds and planes in the way?!? Better buckle up and put on your helmet. <br />
+Your crew is depending on you for a smooth ride into space, and that doesn't include blowing up the ship.
 
 
 ## Esthetics:
@@ -47,12 +44,12 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 
 
 ## Screenshots:
-![placeHolderImage]()
-![placeHolderImage]()
-![placeHolderImage]()
+![placeHolderImage]()<br />
+![placeHolderImage]()<br />
+![placeHolderImage]()<br />
 
 
 ## About the Developer
-Nick Rasmussen
-Game Design and Development Student, RIT
-I like making games.
+Nick Rasmussen<br />
+Game Design and Development Student, RIT<br />
+I like making games.<br />
