@@ -52,7 +52,7 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 ![placeHolderImage]()
 
 
-##About the Developer
+## About the Developer
 Nick Rasmussen
 Game Design and Development Student, RIT
 I like making games.
