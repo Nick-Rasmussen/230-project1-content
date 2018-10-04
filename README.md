@@ -10,10 +10,10 @@
 
 
 ## Game Concept:
-Take control of a rocketship and get it to orbit.
-On the way, you'll encounter a number of obstacles
-ranging from birds to space debris.
-The higher you get, the more they grow in size and numbers.
+Take control of a rocketship and get it to orbit. <br />
+On the way, you'll encounter a number of obstacles <br />
+ranging from birds to space debris. <br />
+The higher you get, the more they grow in size and numbers. <br />
 ![placeHolderImage]()
 
 
