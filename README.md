@@ -1,4 +1,4 @@
-#### 3... ### 2... ## 1... # BLASTOFF!
+# BLASTOFF!
 
 ## Genre:
 ##### Casual, Arcade
