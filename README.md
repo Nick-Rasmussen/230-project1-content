@@ -1,30 +1,29 @@
-#### 3... 
-### 2... 
-## 1... 
-# BLASTOFF!
+#### 3... ### 2... ## 1... # BLASTOFF!
 
-## Genre
-### Casual, Arcade
-
-## Platform
-### Desktop
+## Genre:
+##### Casual, Arcade
 
 
-## Game Concept
+## Platform:
+##### Desktop
+
+
+
+## Game Concept:
 Take control of a rocketship and get it to orbit.
 On the way, you'll encounter a number of obstacles
 ranging from birds to space debris.
 The higher you get, the more they grow in size and numbers.
 
 
-## Story
+## Story:
 Look alive, pilot, launch was T-10 seconds ago and there's no turning back. 
 But wait a minute, who put all those birds and planes in the way?!? 
 Better buckle up and put on your helmet. Your crew is depending on you 
 for a smooth ride into space, and that doesn't include blowing up the ship.
 
 
-## Esthetics
+## Esthetics:
 * ### Graphics
 	*Pixellated and cartoonish. Simplistic graphics and over-the-top animations make the game feel light hearted
 * ### Music
@@ -34,7 +33,7 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 	* Additional sounds include initial rocket ignition (start of game) and getting to orbit (win condition), as well as explosions on collision with the rocket (lose condition).
 
 
-## Gameplay
+## Gameplay:
 * ### Mechanics
 	* Simple, avoidance-based gameplay mechanics
 	* Obstacles get bigger and more numerous as game advances to increase difficulty
@@ -45,4 +44,4 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 	* Going forward (W) is faster than going backward (S)
 
 
-## Screenshots
+## Screenshots:
