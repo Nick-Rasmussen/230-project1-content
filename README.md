@@ -28,7 +28,7 @@ Your crew is depending on you for a smooth ride into space, and that doesn't inc
 	* 8-bit track to fit the visuals. Possible two seperate tracks for gameplay and menus/score review screens
 * ### Sound Effects
 	* Match the animations in over-the-top style. Up to 2 sounds per object, one for a close call and one for a hit.
-	* Additional sounds include initial rocket ignition (start of game) and getting to orbit (win condition), as well as explosions on collision with the rocket (lose condition).
+	* Additional sounds include initial rocket ignition (start of game) and getting to orbit (win condition), as well as explosions on collision with the rocket (lose condition).<br />
 ![placeHolderImage]()
 
 
