@@ -14,6 +14,7 @@ Take control of a rocketship and get it to orbit.
 On the way, you'll encounter a number of obstacles
 ranging from birds to space debris.
 The higher you get, the more they grow in size and numbers.
+![placeHolderImage]()
 
 
 ## Story:
@@ -31,6 +32,7 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 * ### Sound Effects
 	* Match the animations in over-the-top style. Up to 2 sounds per object, one for a close call and one for a hit.
 	* Additional sounds include initial rocket ignition (start of game) and getting to orbit (win condition), as well as explosions on collision with the rocket (lose condition).
+![placeHolderImage]()
 
 
 ## Gameplay:
@@ -46,3 +48,11 @@ for a smooth ride into space, and that doesn't include blowing up the ship.
 
 ## Screenshots:
 ![placeHolderImage]()
+![placeHolderImage]()
+![placeHolderImage]()
+
+
+##About the Developer
+Nick Rasmussen
+Game Design and Development Student, RIT
+I like making games.
